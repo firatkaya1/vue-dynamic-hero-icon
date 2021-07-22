@@ -4,6 +4,14 @@
 
 heroicons.com adresinde bulunan iconları daha rahat kullanabilmek için geliştirilen oldukça basit bir Vue componentidir.  
 
+## Kullanmadan Önce 
+
+Bu componenti kullanabilmeniz için gerekli olan npm paketini yükleyin. 
+
+```sh
+npm install @heroicons/vue
+```
+
 ## Nasıl Kullanılır ? 
 
 Herhangi bir yüklemek yapmak yerine kullanmak istediğiniz projenize HeroIcons.vue dosyasını kopyalayın ve kendi projenize yapıştırın.
