@@ -51,7 +51,7 @@ Proje içinde farklı componentlerde kullanabilmek için ise aşağıdaki örnek
 |  className  | Iconun sahip olacağı class'ı temsil eder. | 32px'lik yükseklik ve genişlik değerine sahip default bir class bulunmaktadır. |
 |  type  | outline ya da solid değerlerini ifade eder. | outline |
 
-
+##
 
 Bir problemle karşılaşırsanız bana yazabilirsiniz. 
 
